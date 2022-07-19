@@ -1,5 +1,7 @@
 # SecureCode_EnzoDardaillon
 
+Java version : 11 or older
+
 HOW TO USE in a pdf file
 
 - Go to "Final" folder
